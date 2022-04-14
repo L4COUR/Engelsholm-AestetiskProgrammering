@@ -43,10 +43,18 @@ tim rodenbröker creative coding
 -
 ## p5 References
 [https://p5js.org/reference/](https://p5js.org/reference/)
-
 ### Shapes
 ![](./media/p5-shapes.png)
-
+### Color
+![](./media/p5-color.png)
+### Alpha
+![](./media/p5-alpha.png)
+### Varying variables
+![](./media/p5-variables.png)
+### Make your own functions
+![](./media/p5-makeyourownfunctions.png)
+### Comment your code
+![](./media/p5-commentcode.png)
 
 ## Source
 - https://github.com/AUAP/AP2017/tree/master/class03
