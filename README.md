@@ -33,9 +33,9 @@ tim rodenbröker creative coding
 ## Draw()
 ### Programmering med p5.js
 
-`function setup() { }
+```function setup() { }
 
-function draw() { }`
+function draw() { }```
 
 
 
