@@ -30,6 +30,14 @@ tim rodenbröker creative coding
 	- *p5.js*, core library
 	- *p5.sound.js*, p5.js sound library, der kan anvendes til web audio funktionalitet, der kan anvendes til playback, eller lytte til at audio input, eller til audio analyse og syntese.
 
+## Draw()
+### Programmering med p5.js
+
+`function setup() { }
+
+function draw() { }`
 
 
-https://github.com/AUAP/AP2017/tree/master/class03
+
+## Source
+- https://github.com/AUAP/AP2017/tree/master/class03
