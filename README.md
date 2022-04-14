@@ -32,11 +32,20 @@ tim rodenbröker creative coding
 
 ## Draw()
 ### Programmering med p5.js
+![](./media/p5-programming-basic.png)
+### Canvas
+![](./media/p5-canvas.png)
+### Console
+![](./media/p5-console.png)
+### preload-function
+![](./media/p5-preload.png)
 
-```function setup() { }
+-
+## p5 References
+[https://p5js.org/reference/](https://p5js.org/reference/)
 
-function draw() { }```
-
+### Shapes
+![](./media/p5-shapes.png)
 
 
 ## Source
