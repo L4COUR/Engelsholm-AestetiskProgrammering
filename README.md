@@ -64,7 +64,7 @@ kode er abstraktion fra maskinkode der igen er en representation af maskinens el
 ## Opgave: DIY Tegneprogram
 1. i jeres setup funktion, definer canvas størrelse, og baggrundsfarve
 2. i jeres draw funktion, anvend "mouseIsPressed" i en if/else statement til at diffinere hvornår der tegnes
-3. anvend funktionen "keyPressed()" til at resette tegningen.
+3. anvend funktionen "keyPressed()" gemme tegning som  .jpg og resette tegningen.
 
 - instruer step by step tegneprogram
 - eleverne får resten af tiden til at eksperimentere/modificere koden.
@@ -72,4 +72,5 @@ kode er abstraktion fra maskinkode der igen er en representation af maskinens el
 ## Source
 - https://github.com/AUAP/AP2017/tree/master/class03
 - https://p5js.org/reference/
+- https://p5js.org/reference/#/p5/saveCanvas
 - https://editor.p5js.org/tstannard64/sketches/lraJPVuSz
