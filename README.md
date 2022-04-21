@@ -41,8 +41,13 @@ tim rodenbröker creative coding
 ![](./media/p5-preload.png)
 
 -
-## p5 References
+## p5 the immaterial material
 [https://p5js.org/reference/](https://p5js.org/reference/)
+
+Hvordan kan vi arbejde med computerens immaterielle materialitet? 
+
+kode er abstraktion fra maskinkode der igen er en representation af maskinens elektriske signaler der styre transistor mikrochips i vores hardware...
+
 ### Shapes
 ![](./media/p5-shapes.png)
 ### Color
@@ -56,5 +61,15 @@ tim rodenbröker creative coding
 ### Comment your code
 ![](./media/p5-commentcode.png)
 
+## Opgave: DIY Tegneprogram
+1. i jeres setup funktion, definer canvas størrelse, og baggrundsfarve
+2. i jeres draw funktion, anvend "mouseIsPressed" i en if/else statement til at diffinere hvornår der tegnes
+3. anvend funktionen "keyPressed()" til at resette tegningen.
+
+- instruer step by step tegneprogram
+- eleverne får resten af tiden til at eksperimentere/modificere koden.
+
 ## Source
 - https://github.com/AUAP/AP2017/tree/master/class03
+- https://p5js.org/reference/
+- https://editor.p5js.org/tstannard64/sketches/lraJPVuSz
