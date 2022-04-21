@@ -69,6 +69,11 @@ kode er abstraktion fra maskinkode der igen er en representation af maskinens el
 - instruer step by step tegneprogram
 - eleverne får resten af tiden til at eksperimentere/modificere koden.
 
+## Udforskning på egen hånd
+- [Daniel Shiffman p5 tutorials](https://www.youtube.com/watch?v=8j0UDiN7my4&list=PLglp04UYZK_PrN6xWo_nJ-8kzyXDyFUwi&ab_channel=TheCodingTrain)
+- [https://medium.com/@shvembldr/how-to-make-your-first-generative-art-with-p5-js-3f10afc07de2](https://medium.com/@shvembldr/how-to-make-your-first-generative-art-with-p5-js-3f10afc07de2)
+- 
+
 ## Source
 - https://github.com/AUAP/AP2017/tree/master/class03
 - https://p5js.org/reference/
